@@ -1,8 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Diya 👋
 
-🎓 B.Tech CSE (Data Science) @ Manipal University Jaipur · CGPA 9.29 · 2026
-💼 Ex AI/ML Intern @ Bharti Airtel — NLP pipelines, 94% F1, Streamlit
+🎓 B.Tech CSE (Data Science) @ Manipal University Jaipur · CGPA 9.29 · 2027
 🔬 Working on: NeuroFit (voice mood detection) · ViT document classifier
 🌱 Currently learning: RAG · MLOps · System Design
 📫 Reach me: diyabangad5@gmail.com · linkedin.com/in/diya-bangad
